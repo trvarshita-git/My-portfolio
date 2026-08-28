@@ -1,6 +1,6 @@
 # T. R. Varshita — Portfolio
 
-A responsive React + Vite portfolio with a premium editorial/Dribbble-inspired aesthetic: oversized typography, neutral palette, lime accent, asymmetric layouts, certificate gallery and subtle interactions.
+A responsive React + Vite portfolio : oversized typography, neutral palette, lime accent, asymmetric layouts, certificate gallery and subtle interactions.
 
 Run:
 npm install
